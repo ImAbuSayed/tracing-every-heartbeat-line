@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-every-heartbeat-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tracing Every Heartbeat Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-every-heartbeat-line/) |
+| **Get License** | [Music Rights & Licensing for Tracing Every Heartbeat Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-every-heartbeat-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4761f21f67de7f2864dd96d02551dc86ddb314172682ed8d878d7aa6501306d7` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
