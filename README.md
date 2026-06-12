@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Trace a little closer to the center of my chest
+> Leave the waking world behind and lay your head to rest
+> Feel my heavy heart beating right against your skin
+> Every time you look at me, the sweetest nights begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
